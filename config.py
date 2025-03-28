@@ -14,11 +14,11 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_ll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","BADNAM_BABY_lll_YADAV")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "PurviMusicRobot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jio_savan_music_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Ꭾᴜʀꪜɪ ꭙ ϻᴜsɪᴄ˼")
+BOT_NAME = getenv("BOT_NAME" , "ᴋʀɪᴛɪ ꭙ ϻᴜsɪᴄ˼")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "Alpha")
 # ---------------------------------------------------------
@@ -39,7 +39,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 8143754205))
+OWNER_ID = int(getenv("OWNER_ID", 8130531095))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 # config.py
@@ -54,7 +54,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/The-SigmaCoder/PURVIV2",
+    "https://github.com/Badnam019/PURVIV2",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -68,10 +68,10 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+gMy8Cp190ediNzZl")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_BADNAM_BOTS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/YASH_ABOUT_XD_lll")
 SOURCE = getenv("SOURCE", "https://t.me/Sonali_music_bot")
-CHAT = getenv("CHAT", "https://t.me/+gMy8Cp190ediNzZl")
+CHAT = getenv("CHAT", "https://t.me/TEAM_BADNAM_BOTS")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ if SUPPORT_CHAT:
 # ----------------------------------------------------------------------------------------
 # ----------------------------------------------------------------------------------------
 
-CLONE_LOGGER = int(getenv("CLONE_LOGGER", -1002141133985))
+CLONE_LOGGER = int(getenv("CLONE_LOGGER", 100201076996))
