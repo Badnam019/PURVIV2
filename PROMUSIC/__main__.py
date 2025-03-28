@@ -47,12 +47,12 @@ async def init():
     await PRO.decorators()
     await restart_bots()
     LOGGER("PROMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗔𝗟𝗣𝗛𝗔☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝘽𝘼𝗗𝗡𝗔𝗠☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("PROMUSIC").info("𝗦𝗧𝗢𝗣 𝗣𝗨𝗥𝗩𝗜 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("PROMUSIC").info("𝗦𝗧𝗢𝗣 𝗞𝗛𝗨𝗦𝗛𝗜 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
